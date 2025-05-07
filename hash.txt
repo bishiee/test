@@ -1,1 +1,6 @@
+revanza:$2y$10$cXqqN7qb4f2YelO0Qig3sOwWutKeRN2N/8kcgz22kSoYxn9om16B.
 admin:$2y$10$UiJLH8TVXmHv1XH5a.ftdeAQsYK1tiTswYbzZi7KNX6fM5w2pKw8S
+test:$2y$10$KQGONpFZ66wlrmo8issnkOChbH2KE.6JZG76UCtHf1UmvLyQTR022
+hacker:$2y$10$BkuGOXrSAXKvaPxbfPiVDudgMlTWN/B/lOiU9ZuBAoziqifuAwPpa
+support:$2y$10$AtCexrEEgcbCMduU3HePt.BHBfip8rgNpzQhcp3rru5GmltsQVyvG
+mustofa:$2y$10$tTvc/V.aYbzMP/RYfIbpXuoBhJG2ZjLMea5DwlyL8OCIvNZR6VwKy
